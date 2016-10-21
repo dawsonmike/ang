@@ -13,3 +13,4 @@ angular.module('myApp.view2', ['ngRoute'])
 // $scope.h=4;
 // $scope.m="mikey in view";
 // });
+//adding comment for test
