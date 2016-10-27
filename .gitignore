@@ -2,6 +2,10 @@ logs/*
 !.gitkeep
 node_modules/
 bower_components/
+typings/
 tmp
+tsd.json
+npm-debug.log
+.gitignore
 .DS_Store
 .idea
